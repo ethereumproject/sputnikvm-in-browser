@@ -36,6 +36,7 @@ source ./emsdk-env.sh
 After that, you can compile this project.
 
 ```
+npm install
 npm run compile
 npm run serve
 ```
